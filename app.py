@@ -56,7 +56,7 @@ def query_theaters_by_city(city_name):
 
 # Configuración de la página Streamlit
 st.set_page_config(page_title="Buscador de Teatros", page_icon="🎭")
-st.title("🎭 Buscador de Teatros por Ciudad (probando el CI CD")
+st.title("🎭 Buscador de Teatros por Ciudad (probando el CI CD) FUNCIONA")
 st.write("Esta aplicación busca teatros en la base de datos sample_mflix de MongoDB por nombre de ciudad.")
 
 # Campo de entrada para la ciudad
